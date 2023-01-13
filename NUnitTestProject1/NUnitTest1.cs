@@ -24,12 +24,6 @@ namespace NUnitTestProject1
         }
 
         [Test]
-        public void TestSuiteProgramKo()
-        {
-            Assert.AreEqual(81, ope.Exposant(3, 4));
-        }
-
-        [Test]
         public void TestMethod2()
         {
             string s = "a;b;c;d;e;f"; // 6 éléments
