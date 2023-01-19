@@ -38,9 +38,9 @@ namespace Mathematics.Tests
         [TestCase(4, 2, 2)]
         [TestCase(9, 3, 2)]
         [TestCase(81, 3, 4)]
-        public void TestMoiCetteFonctionPlusieursFois(double resultat, int a, int b)
+        public void TestMoiCetteFonctionPlusieursFois(double result, int a, int b)
         {
-            Assert.AreEqual(resultat, ope.Exposant(a, b));
+            Assert.AreEqual(result, ope.Exposant(a, b));
         }
     }
 }
