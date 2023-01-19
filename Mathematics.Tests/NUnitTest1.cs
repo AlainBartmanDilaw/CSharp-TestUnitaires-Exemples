@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using Mathematics;
 
-namespace NUnitTestProject1
+namespace Mathematics.Tests
 {
     [TestFixture]
     public class NUnitTest1
