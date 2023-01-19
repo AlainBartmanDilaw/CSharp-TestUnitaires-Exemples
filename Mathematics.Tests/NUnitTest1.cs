@@ -1,6 +1,4 @@
-﻿using System;
-using NUnit.Framework;
-using Mathematics;
+﻿using NUnit.Framework;
 
 namespace Mathematics.Tests
 {
